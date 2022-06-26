@@ -2,4 +2,4 @@
 
 ### Изучаю JS
 
-### [Результат здесь]()
+### [Результат здесь](https://perecmc.github.io/Hover-board/)
